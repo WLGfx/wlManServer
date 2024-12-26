@@ -1,0 +1,3 @@
+# Server Management for devices and media handling.
+
+NB: see 'master' branch...
