@@ -1,6 +1,11 @@
-#include <iostream>
+#include "tcpserver.hpp"
 
 int main(int argc, char *argv[])
 {
-    std::cout << "Hello world!" << std::endl;
+    (void) argc;
+    (void) argv;
+
+    //TCPServer server(true, 8080, 10, 10, 10);
+    
+    return 0;
 }
